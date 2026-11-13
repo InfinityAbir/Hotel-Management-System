@@ -9,7 +9,4 @@ After clicking database click import and select the file "bluebirdhotel.sql"<br>
 Open the link "http://localhost/Hotel-Management-System/"<br>
 Now register and login<br>
 
-== Staff Login ==<br>
-
-Email : sadiayasmin@gmail.com<br>
-Password : 3896<br>
+Staff accounts are created by the site owner after installation. The sample staff row in bluebirdhotel.sql is for local demo use only; change its password before any real deployment.
